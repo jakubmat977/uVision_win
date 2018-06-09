@@ -9,3 +9,4 @@ I (\\Mac\AllFiles\Volumes\[C] Mój Boot Camp\Users\Jakub\Documents\Keil Projects 
 F (.\main_delay.c)(0x5B0BFCF4)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main_delay.o --omf_browse .\main_delay.crf --depend .\main_delay.d)
 I (\\Mac\AllFiles\Volumes\[C] Mój Boot Camp\Users\Jakub\Documents\Keil Projects repo\uVision_win\2.AUTOMATY\keyboard.h)(0x5AD9E1CD)
 I (\\Mac\AllFiles\Volumes\[C] Mój Boot Camp\Users\Jakub\Documents\Keil Projects repo\uVision_win\2.AUTOMATY\led.h)(0x5AD9E455)
+F (.\Note.txt)(0x5B1B950A)()

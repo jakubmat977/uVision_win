@@ -414,6 +414,16 @@
             </File>
           </Files>
         </Group>
+        <Group>
+          <GroupName>Documentation</GroupName>
+          <Files>
+            <File>
+              <FileName>Note.txt</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Note.txt</FilePath>
+            </File>
+          </Files>
+        </Group>
       </Groups>
     </Target>
   </Targets>
